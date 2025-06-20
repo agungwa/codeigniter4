@@ -3,7 +3,7 @@
 #-------------------------
 
 # OS X
-.DS_Store
+.DS_Store dsdsd
 .AppleDouble
 .LSOverride
 
@@ -13,7 +13,7 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-Desktop.ini
+Desktop.ini  
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
